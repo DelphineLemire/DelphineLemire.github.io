@@ -1,6 +1,9 @@
 - name: Delphine Lemire
   link: /
-- name: Qui suis-je? 
-  link: /about.html
+  class: logo
+- name: Portfolio
+  link: /portfolio.html
+  class; standard
 - name: Blog
   link: /blog.html
+  class: standard
