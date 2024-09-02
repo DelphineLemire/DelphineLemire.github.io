@@ -3,7 +3,7 @@
   class: logo
 - name: Portfolio
   link: /portfolio.html
-  class; standard
+  class: standard
 - name: Blog
   link: /blog.html
   class: standard
