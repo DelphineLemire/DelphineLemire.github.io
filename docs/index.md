@@ -1,5 +1,6 @@
 ---
-age: 50 ans
+layout: default
+title: Accueil
 ---
 
 # Bienvenue sur le site d'une Développeuse Full stack
@@ -8,4 +9,3 @@ appétence pour les nouvelles technologies et les processus d’entreprise. En
 2004, j’effectue une reconversion en tant que concepteur développeur. Une
 veille continue me permet d’actualiser mes compétences et proposer des
 services en lien avec l’ensemble de la chaîne logicielle.
-J'ai {{ page.age }}
