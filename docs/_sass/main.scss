@@ -1,3 +1,20 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar__link {
+    margin-left: 30px;
+    color:black;
+    text-decoration: none;
+}
+
+.navbar__link--purple {
+    color: #a5b4fc;
+  }
+
 .current {
     color: green;
 }
