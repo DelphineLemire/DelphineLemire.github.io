@@ -92,6 +92,16 @@ img.logo {
     justify-content: center;
 }
 
+div.brown1 {
+    background-color: rgba(68, 60 63, .1);
+    border-radius: 3em;
+}
+
+div.brown1 span {
+    background-color: rgb(68, 60 63);
+    border-radius: 1em;
+}
+
 @media all and (max-width: 500px)  {
     .content {
         max-width: 100%;
@@ -121,4 +131,7 @@ img.logo {
     .btn {
         font-size: 1em;
     }
+
+
+
 }
