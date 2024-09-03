@@ -92,7 +92,7 @@ img.logo {
     justify-content: center;
 }
 
-@media only screen and (max-width : 320px)  {
+@media only all and (max-width : 500px)  {
     .content {
         max-width: 100%;
     }
