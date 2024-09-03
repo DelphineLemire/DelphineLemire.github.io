@@ -2,6 +2,10 @@ body {
     font-family: sans-serif;
 }
 
+div {
+    display: flex;
+    padding: 1em;
+}
 .navbar {
     display: flex;
     margin-top:30px;
