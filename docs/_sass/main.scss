@@ -97,9 +97,16 @@ div.brown1 {
     border-radius: 3em;
 }
 
+div.brown1 div {
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+}
 div.brown1 span {
     background-color: rgb(68, 60, 63);
     border-radius: 1em;
+    color: white;
+    padding:0.1em;
 }
 
 @media all and (max-width: 500px)  {
