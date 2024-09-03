@@ -103,11 +103,12 @@ div.brown1 div {
     align-items: center;
 }
 div.brown1 span {
-    background-color: rgb(68, 60, 63);
-    border-radius: 0.2em;
+    background-color: #443c3f;
+    border-radius: 0.5em;
     color: white;
     font-size: 1em;
-    padding:0.1em;
+    font-weight: 800;
+    padding: 0.5em;
 }
 
 @media all and (max-width: 500px)  {
@@ -139,7 +140,4 @@ div.brown1 span {
     .btn {
         font-size: 1em;
     }
-
-
-
 }
