@@ -97,7 +97,12 @@ img.logo {
         max-width: 100%;
     }
 
-    .greatgap{
+    div.greatgap{
         flex-direction: column;
+        gap: 1em;       
+    }
+
+    div.greatgap div{
+        justify-content: center ;
     }
 }
