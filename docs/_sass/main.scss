@@ -91,3 +91,9 @@ img.logo {
 .flex-column div {
     justify-content: center;
 }
+
+@media (max-width: 640px) {
+    .content {
+        max-width: 100%;
+    }
+}
