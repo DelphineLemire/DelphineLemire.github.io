@@ -7,6 +7,10 @@ div {
     padding: 1em;
 }
 
+.flex-column {
+    flex-direction: column;
+}
+
 .btn {
     font-weight: bold;
     text-decoration: none;
@@ -15,6 +19,10 @@ div {
     border-radius: .5rem;
     padding: 0.5rem 1rem ;
 
+}
+
+.logo {
+    font-size: 2.5em;
 }
 
 .navbar {
