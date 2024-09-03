@@ -97,6 +97,14 @@ img.logo {
         max-width: 100%;
     }
 
+    .navbar__link--standard {
+        font-size: 1em;
+    }
+
+    .navbar__link--logo img {
+        height: 1em;
+    }
+
     div.greatgap{
         flex-direction: column;
         gap: 1em;       
