@@ -102,6 +102,11 @@ div.brown1 div {
     justify-content: center;
     align-items: center;
 }
+
+div.brown1 h2, div.brown1 p  {
+    margin:0;
+}
+
 div.brown1 span {
     background-color: #443c3f;
     border-radius: 0.5em;
